@@ -1,4 +1,4 @@
-module gorm.io/driver/sqlite
+module github.com/cybersis2020/gorm-sqlite
 
 go 1.14
 
